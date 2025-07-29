@@ -54,19 +54,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vibek-prasad&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibek-prasad&theme=github-dark" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibek-prasad&layout=compact&theme=github_dark" width="48%" />
-</p>
-
----
-
 ### 📂 Featured Projects
 
 - 🚀 [Dream Nest](https://github.com/vibek-prasad/Dream-Nest) – Real estate discovery platform  
