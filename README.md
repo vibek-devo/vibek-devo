@@ -5,12 +5,12 @@
 
 ### 🧑‍💻 About Me
 
-- 💼 Full Stack Developer Intern with hands-on experience in building scalable web applications
+- 💼 Full Stack Developer with hands-on experience in building scalable web applications
 - 🧠 Passionate about building robust backend systems and beautiful UIs
-- ⚔️ Knight at [LeetCode](https://leetcode.com/) – Solved 700+ problems, daily DSA grind 💪
+- ⚔️ Knight at [LeetCode](https://leetcode.com/u/VIBEK229/) – Solved 200+ problems, daily DSA grind 💪
 - 🚀 Exploring AI integration, RAG pipelines, and scalable system design
 - 🧩 Love solving complex problems through clean and optimized code
-- 📫 Reach me at **[your-email@example.com]**
+- 📫 Reach me at **[vibekprasad22@gmail.com]**
 
 ---
 
@@ -65,16 +65,16 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vibek-prasad/" target="_blank">
+  <a href="https://www.linkedin.com/in/vibek-prasad-828126257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:vibekprasad22@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/your-leetcode-id/" target="_blank">
+  <a href="https://leetcode.com/u/VIBEK229/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://github.com/vibek-prasad" target="_blank">
+  <a href="https://github.com/vibek-devo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
