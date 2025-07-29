@@ -56,9 +56,9 @@
 
 ### 📂 Featured Projects
 
-- 🚀 [Dream Nest](https://github.com/vibek-prasad/Dream-Nest) – Real estate discovery platform  
-- 🌿 [Air Quality Predictor](https://github.com/...) – Predicts AQI using drone sensors + ML  
-- ✉️ [Onebox Email Aggregator](https://github.com/...) – Smart inbox with real-time sync & AI
+- 🚀 [SenseAI](https://github.com/vibek-devo/Sense-AI) – AI Career Coach 
+- 🌿 [Tomato](https://github.com/vibek-devo/Tomato) –Food Delivery Platform
+- ✉️ [QuickShow](https://github.com/vibek-devo/QuickShow-Movie-Ticket-Booking-) – Movie Ticket Booking Platform UI
 
 ---
 
