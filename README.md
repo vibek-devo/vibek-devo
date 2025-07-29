@@ -48,7 +48,7 @@
 
 ### ⚔️ Competitive Programming
 
-- 🥇 Knight on [LeetCode](https://leetcode.com/)
+- 🥇 Knight on [LeetCode](https://leetcode.com/u/VIBEK229/)
 - 🧠 Regular participant in contests on LeetCode, Codeforces, and AtCoder
 - 💡 Focused on writing optimal, readable, and bug-free code
 
